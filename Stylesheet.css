@@ -1,0 +1,13 @@
+.olaf{
+	width:24px;
+	height:24px;
+	position:relative;
+	top:300px;
+	left:500px;
+	border:7px outset #264B87;
+	cursor:pointer;
+	text-align:center;
+	box-shadow: inset 20px 15px 15px white;
+	font-size:7px;
+	border-radius:0px;
+}

@@ -1,2 +1,2 @@
 # Oversees
-Simple JavaScript Game about gaining control over a colony 
+Simple HTML/CSS/JavaScript Game about gaining control over a colony 
